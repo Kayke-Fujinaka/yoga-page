@@ -3,5 +3,5 @@
 
 Confira a aplicação: <a href="https://kayke-fujinaka.github.io/Yoga-Interface/">Aqui</a>
 
-<img src="https://kayke-fujinaka.github.io/Yoga-Interface/">
+<img src="./Screenshot_1.png">
 
