@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 # PlayStation Store
+=======
+# Yoga-Interface
+ It is a page for a yoga application, where Html and CSS were used to be programmed.
+>>>>>>> 7cc245668888828bcf0cd4737b637b956d053bf2
 
 <img src="https://github.com/Kayke-Fujinaka/Yoga-Interface/blob/main/Screenshot_1.png?raw=true" width="450px" alt="Yoga Interface">
 
