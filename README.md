@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# PlayStation Store
-=======
 # Yoga-Interface
  It is a page for a yoga application, where Html and CSS were used to be programmed.
 >>>>>>> 7cc245668888828bcf0cd4737b637b956d053bf2
