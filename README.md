@@ -1,39 +1,42 @@
-# Yoga-Interface
- It is a page for a yoga application, where Html and CSS were used to be programmed.
->>>>>>> 7cc245668888828bcf0cd4737b637b956d053bf2
+# Yoga Interface
 
-<img src="https://github.com/Kayke-Fujinaka/Yoga-Interface/blob/main/Screenshot_1.png?raw=true" width="450px" alt="Yoga Interface">
+<img src="./assets/gif.gif" width="800px" height="400px" alt="Gif do Teste">
 
 >  It is a page for a yoga application, where Html and CSS were used to be programmed.
 
-Confira a aplicação: https://kayke-fujinaka.github.io/Yoga-Interface/
+Check the Application: https://kayke-fujinaka.github.io/Yoga-Interface/
+## :page_facing_up: Explanation
 
-## 🚀 Technologies
+O projeto foi um desafio que o Rodolfo Mori do DevClub disponibilizou no módulo de CSS.
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+Esse desafio consiste numa página para uma interface de Yoga.
+## :rocket: Technologies ##
 
-- HTML5
-- CSS3
-- JavaScript
-- MediaQuery
+The following tools were used in this project:
 
-## 🤝 Colaboradores
+- [Html](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element/html/)  
+- [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)  
+## 🤝 Collaborators
 
-Agradecemos às seguintes pessoas que contribuíram para este projeto:
+We thank the following people who contributed to this project:
 
 <table>
   <tr>
     <td align="center">
       <a href="#">
-        <img src="https://avatars.githubusercontent.com/u/98772000?s=400&u=80de9af672be7f75cc7a546838552cf63d5b82fe&v=4" width="100px;" alt="Foto do Kayke Fujinaka no GitHub"/><br>
+        <img src="https://avatars.githubusercontent.com/u/98772000?s=400&u=80de9af672be7f75cc7a546838552cf63d5b82fe&v=4" width="140px;" alt="Foto do Kayke Fujinaka no GitHub"/><br>
         <sub>
-          <b>Kayke Fujinaka</b>
+          <b>Kayke Alves Fujinaka</b>
         </sub>
       </a>
     </td>
   </tr>
 </table>
 
-## 📝 Licença
+## 📝 License
 
-Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais detalhes.
+This project is under license. See the [LICENSE](LICENSE.md) file for more details.
+
+&#xa0;
+
+<a href="#top">Back to top</a>
