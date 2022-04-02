@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+    box-sizing: border-box;
+}
+
+body {
+    background: #F7F7F7;
+}
+
+.image {
+    display: flex;
+    margin: 100px auto;
+}
+
+.balls {
+    display: flex;
+    margin: 0 auto 80px;
+}
+
+p{
+    text-align: center;
+    margin: 0 44px;
+    font-size: 24px;
+    color: #000000;
+}
+button{
+    display: block;
+    text-align: center;
+    margin: 50px auto 100px;
+    padding: 20px 50px;
+    background-color: #323232;
+    font-weight: 400;
+    color: #fff;
+    border: none;
+    border-radius: 10px;
+    outline: none;
+    box-shadow: -4px 4px 12px rgba(0, 0, 0, 0.09);
+    cursor: pointer;
+}
+
+button:active {
+    opacity: 0.8;
+}
+
