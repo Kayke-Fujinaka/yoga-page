@@ -1,6 +1,6 @@
 # Yoga Interface
 
-<img src="./assets/img/gif.gif" width="800px" height="400px" alt="Gif do Teste">
+<img src="./assets/img/gif.gif" width="500px" alt="Gif do Teste">
 
 >  It is a page for a yoga application, where Html and CSS were used to be programmed.
 
